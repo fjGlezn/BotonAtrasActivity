@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BotonAtrasActivity</string>
+    <string name="texto_boton">IR A SEGUNDA ACTIVITY</string>
+    <string name="actividad_dos">Segunda Activity</string>
+</resources>
